@@ -3,13 +3,16 @@
 
 ## Brief Introduction
 
-Cybersecurity graduate & Army veteran developing skills in network defense, SIEM monitoring, and incident response. Actively building labs and pursuing Security+ & CCNA to launch into a Tier 1 SOC role.
+Cybersecurity graduate & Army veteran developing skills in network defense, SIEM monitoring, and incident response.Actively building labs and pursuing Security+ & CCNA to launch into a Tier 1 SOC role.
 
 ## Objective
 
 Entry-level cybersecurity and IT professional with a background in networking, security fundamentals, and hands-on lab experience. Seeking a Tier 1 SOC or IT support role where I can apply threat detection, system hardening, and troubleshooting skills while continuing to grow in security operations.
 
-## Skills
+> Continuously building hands-on labs to strengthen SOC, blue-team, and pentesting skills.
+
+## 🛠️ Skills
+## 🔧 Tools & Platforms (Badges)
 
 | Skill | Associated Project |
 |------|--------------------|
