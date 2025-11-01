@@ -20,33 +20,34 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 | Password Cracking & Privilege Escalation (Hydra, John) | [System Hacking Lab](#) *(Coming Soon)* |
 | Wireless Security (WPA2, WPS testing) | [Wireless Security Lab](#) *(Coming Soon)* |
 
-## Tools
-| Category | Tools |
-|---|---|
-Network Analysis | Wireshark, tcpdump  
-Web Security | Burp Suite, OWASP ZAP, DVWA  
-Password Attacks | Hydra, John the Ripper  
-Virtualization | VMware Workstation  
-OS & Security Tools | Kali Linux, Windows 10, Linux CLI  
-Version Control | Git & GitHub  
+### Tools & Platforms (Badges)
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    
-</div>
+**Network**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+**Web Security**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-3A82F7?style=for-the-badge&logo=owasp&logoColor=white)
+![DVWA](https://img.shields.io/badge/DVWA-000000?style=for-the-badge)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+**Endpoint / DFIR**
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-5A1F78?style=for-the-badge)
+
+**SIEM**
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+**Virtualization & OS**
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+**Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ## Certifications
