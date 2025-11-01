@@ -16,12 +16,12 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 | Skill | Associated Project |
 |------|--------------------|
-| Web Application Security (SQLi, XSS) | [Web App Pentest Lab](#) *(Coming Soon)* |
-| Traffic Capture & Packet Analysis (HTTP credentials) | [Wireshark Credential Capture Lab](#) *(Coming Soon)* |
+| Web Application Security (SQLi, XSS) | [Web App Pentest Lab](#) |
+| Traffic Capture & Packet Analysis (HTTP credentials) | [Wireshark Credential Capture Lab](#)|
 | Vulnerability Discovery & Reporting | Web App Pentest Lab |
-| Malware Research & Threat Analysis (Stuxnet) | [Stuxnet Analysis Lab](#) *(Coming Soon)* |
-| Password Cracking & Privilege Escalation (Hydra, John) | [System Hacking Lab](#) *(Coming Soon)* |
-| Wireless Security (WPA2, WPS testing) | [Wireless Security Lab](#) *(Coming Soon)* |
+| Malware Research & Threat Analysis (Stuxnet) | [Stuxnet Analysis Lab](#)|
+| Password Cracking & Privilege Escalation (Hydra, John) | [System Hacking Lab](#)|
+| Wireless Security (WPA2, WPS testing) | [Wireless Security Lab](#)|
 
 ### Tools & Platforms (Badges)
 
@@ -54,11 +54,10 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 </div>
 
 ## Certifications
-</div>
-## Certifications
-
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+[![Cisco CCNA](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/learn/certifications/associate/ccna.html)
+
 </div>
 
 ## Projects
