@@ -10,11 +10,6 @@ Cybersecurity graduate & Army veteran developing skills in network defense, SIEM
 Entry-level cybersecurity and IT professional with a background in networking, security fundamentals, and hands-on lab experience. Seeking a Tier 1 SOC or IT support role where I can apply threat detection, system hardening, and troubleshooting skills while continuing to grow in security operations.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-
-| Web Application Security (SQLi, XSS)         | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 | Skill | Associated Project |
 |------|--------------------|
