@@ -1,11 +1,15 @@
-# Hello, I'm LAKPA SHERPA
+## 👋 Hello, I'm LAKPA SHERPA
+
+> 🪖 U.S. Army Veteran | 🎓 Cybersecurity Graduate | 🔐 Blue Team Focus | 📚 Security+ & CCNA in Progress
+
+
 <a href="https://www.linkedin.com/in/lakpa-sherpa-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Brief Introduction
+### 🎯 Brief Introduction
 
 Cybersecurity graduate & Army veteran developing skills in network defense, SIEM monitoring, and incident response.Actively building labs and pursuing Security+ & CCNA to launch into a Tier 1 SOC role.
 
-## Objective
+### 🧭 Objective
 
 Entry-level cybersecurity and IT professional with a background in networking, security fundamentals, and hands-on lab experience. Seeking a Tier 1 SOC or IT support role where I can apply threat detection, system hardening, and troubleshooting skills while continuing to grow in security operations.
 
@@ -53,13 +57,15 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 </div>
 
-## Certifications
+## 🎓 Certifications
+
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 [![Cisco CCNA](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/learn/certifications/associate/ccna.html)
 
 </div>
 
-## Projects
+## 🚀 Projects
+
 - Detection Lab
 - SOC Automation Project
