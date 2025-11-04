@@ -8,6 +8,14 @@
 
 
 ---
+<p align="center">
+  <b>$ whoami → Lakpa Sherpa</b><br>
+  Cybersecurity | Blue Team | Threat Defense<br>
+  🪖 Veteran · 🎓 Cybersecurity Graduate · 📚 Security+ & CCNA in Progress
+</p>
+
+<hr style="border:0.5px solid #39FF14;">
+
 
 <a href="https://www.linkedin.com/in/lakpa-sherpa-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
