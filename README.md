@@ -46,13 +46,6 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![CLI](https://img.shields.io/badge/CLI-222222?style=flat)
 
 
-#### 🔌 Systems & Networking
-![DHCP](https://img.shields.io/badge/DHCP-4A90E2?style=flat)
-![DNS](https://img.shields.io/badge/DNS-0078D6?style=flat)
-![NAT](https://img.shields.io/badge/NAT-333333?style=flat)
-![IPv4/IPv6](https://img.shields.io/badge/IPv4%2FIPv6-4CAF50?style=flat)
-
-
 #### 🖥️ OS / Virtualization
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
