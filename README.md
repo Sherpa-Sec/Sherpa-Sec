@@ -1,6 +1,7 @@
 # 👋 Hello, I'm LAKPA SHERPA
 ---
-> 🪖 U.S. Army Veteran | 🎓 Cybersecurity Graduate | 🔐 Blue Team Focus | 📚 Security+ & CCNA in Progress
+> 🪖 U.S. Army Veteran > 🎓 Cybersecurity Graduate > 🔐 Blue Team Focus > 📚 Security+ & CCNA[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+[![Cisco CCNA](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/learn/certifications/associate/ccna.html) in Progress
 ---
 
 <a href="https://www.linkedin.com/in/lakpa-sherpa-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,9 +16,6 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 > Continuously building hands-on labs to strengthen SOC, blue-team, and pentesting skills.
 
-## 🛠️ Technical Skills
-
----
 
 ## 🛠️ Technical Skills
 
