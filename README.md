@@ -1,21 +1,19 @@
-## 👋 Hello, I'm LAKPA SHERPA
-
+# 👋 Hello, I'm LAKPA SHERPA
+---
 > 🪖 U.S. Army Veteran | 🎓 Cybersecurity Graduate | 🔐 Blue Team Focus | 📚 Security+ & CCNA in Progress
-
+---
 
 <a href="https://www.linkedin.com/in/lakpa-sherpa-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### 🎯 Brief Introduction
+## 🎯 Brief Introduction
 
 Cybersecurity graduate & Army veteran developing skills in network defense, SIEM monitoring, and incident response. Actively building labs and pursuing Security+ & CCNA to launch into a Tier 1 SOC/ Security Analyst role.
 
-### 🧭 Objective
+## 🧭 Objective
 
 Entry-level cybersecurity and IT professional with a background in networking, security fundamentals, and hands-on lab experience. Seeking a Tier 1 SOC or IT support role where I can apply threat detection, system hardening, and troubleshooting skills while continuing to grow in security operations.
 
 > Continuously building hands-on labs to strengthen SOC, blue-team, and pentesting skills.
-
-## 🛠️ Technical Skills
 
 ## 🛠️ Technical Skills
 
@@ -29,20 +27,19 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=for-the-badge)
 ![Shodan](https://img.shields.io/badge/Shodan-F20000?style=for-the-badge&logo=shodan&logoColor=white)
 
----
 
 ### 🧠 Web Security Tools
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
----
+
 
 ### 🚨 Incident Response & Analysis
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge)
 ![Phishing Detection](https://img.shields.io/badge/Phishing%20Detection-FF5733?style=for-the-badge)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-2ECC71?style=for-the-badge)
 
----
+
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,7 +48,7 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-222222?style=for-the-badge)
 
----
+
 
 ### 🌐 Systems & Networking
 ![DHCP](https://img.shields.io/badge/DHCP-4A90E2?style=for-the-badge)
@@ -62,14 +59,14 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![Linux Networking](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS Networking](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
----
+
 
 ### 🖥️ OS / Virtualization
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
----
+
 
 ### 🧰 Applications & Tools
 ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
@@ -77,19 +74,12 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![DBMS](https://img.shields.io/badge/DBMS-34495E?style=for-the-badge)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=for-the-badge&logo=microsoft&logoColor=white)
 
----
+
 
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 🔧 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 ### 🤝 Soft Skills
 ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-1ABC9C?style=flat-square)
@@ -115,3 +105,4 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 - 🔎 Detection & SOC Lab (Wazuh / Windows / Sysmon / Splunk)
 - 🤖 SOC Automation Project (SIEM + Scripting)
+---
