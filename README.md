@@ -61,11 +61,6 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=flat&logo=microsoft&logoColor=white)
 
 
-### 🔧 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
 ### 🤝 Soft Skills
 ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-1ABC9C?style=flat-square)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-3498DB?style=flat-square)
