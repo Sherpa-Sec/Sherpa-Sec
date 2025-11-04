@@ -17,6 +17,10 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 ## 🛠️ Technical Skills
 
+## 🛠️ Technical Skills
+
+---
+
 ### 🛡️ Security & Monitoring
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -24,6 +28,12 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=for-the-badge)
 ![Shodan](https://img.shields.io/badge/Shodan-F20000?style=for-the-badge&logo=shodan&logoColor=white)
+
+---
+
+### 🧠 Web Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
@@ -48,14 +58,20 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![DNS](https://img.shields.io/badge/DNS-0078D6?style=for-the-badge)
 ![NAT](https://img.shields.io/badge/NAT-333333?style=for-the-badge)
 ![IPv4/IPv6](https://img.shields.io/badge/IPv4%2FIPv6-4CAF50?style=for-the-badge)
+![Windows Networking](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Networking](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS Networking](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+### 🖥️ OS / Virtualization
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
 ### 🧰 Applications & Tools
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-34495E?style=for-the-badge)
@@ -63,13 +79,9 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 ---
 
-### 🧠 Web Security Tools
-`Burp Suite` `OWASP ZAP`
-
----
-
-### 🖥️ OS / Virtualization
-`Kali Linux` `Windows` `VMware`
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -80,32 +92,12 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ---
 
 ### 🤝 Soft Skills
-`Analytical Thinking` `Problem Solving` `Adaptable` `Team Collaboration`
-
-🤝 Soft Skills
 ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-1ABC9C?style=flat-square)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-3498DB?style=flat-square)
 ![Adaptable](https://img.shields.io/badge/Adaptable-9B59B6?style=flat-square)
 ![Teamwork](https://img.shields.io/badge/Teamwork-F1C40F?style=flat-square)
 
-`Wireshark`
-
-**Web Security**
-`Burp Suite` `OWASP ZAP` 
-
-
-**SIEM**
- `Splunk` 
-
-**OS / Virtualization**
-`VMware` `Kali Linux` `Windows`
-
-**Version Control**
-`Git` `GitHub`
-
-**Version Control**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
 </div>
 
