@@ -19,61 +19,57 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 ---
 
-### 🛡️ Security & Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=for-the-badge)
-![Shodan](https://img.shields.io/badge/Shodan-F20000?style=for-the-badge&logo=shodan&logoColor=white)
+## 🛠️ Technical Skills
+
+#### 🛡️ Security & Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=flat)
+![Shodan](https://img.shields.io/badge/Shodan-F20000?style=flat&logo=shodan&logoColor=white)
 
 
-### 🧠 Web Security Tools
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+#### 🌐 Web Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=flat&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)
 
 
-
-### 🚨 Incident Response & Analysis
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge)
-![Phishing Detection](https://img.shields.io/badge/Phishing%20Detection-FF5733?style=for-the-badge)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-2ECC71?style=for-the-badge)
-
+#### 🚨 Incident Response & Analysis
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=flat)
+![Phishing Detection](https://img.shields.io/badge/Phishing%20Detection-FF5733?style=flat)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-2ECC71?style=flat)
 
 
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-222222?style=for-the-badge)
+#### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-222222?style=flat)
 
 
-
-### 🌐 Systems & Networking
-![DHCP](https://img.shields.io/badge/DHCP-4A90E2?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-0078D6?style=for-the-badge)
-![NAT](https://img.shields.io/badge/NAT-333333?style=for-the-badge)
-![IPv4/IPv6](https://img.shields.io/badge/IPv4%2FIPv6-4CAF50?style=for-the-badge)
-![Windows Networking](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Networking](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS Networking](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
+#### 🔌 Systems & Networking
+![DHCP](https://img.shields.io/badge/DHCP-4A90E2?style=flat)
+![DNS](https://img.shields.io/badge/DNS-0078D6?style=flat)
+![NAT](https://img.shields.io/badge/NAT-333333?style=flat)
+![IPv4/IPv6](https://img.shields.io/badge/IPv4%2FIPv6-4CAF50?style=flat)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 
-### 🖥️ OS / Virtualization
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+#### 🖥️ OS / Virtualization
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 
-
-### 🧰 Applications & Tools
-![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-34495E?style=for-the-badge)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=for-the-badge&logo=microsoft&logoColor=white)
-
+#### 🧰 Applications & Tools
+![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=flat&logo=powershell&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-34495E?style=flat)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=flat&logo=microsoft&logoColor=white)
 
 
 ### 🔧 Version Control
