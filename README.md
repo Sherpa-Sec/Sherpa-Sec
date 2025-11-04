@@ -1,8 +1,9 @@
 # 👋 Hello, I'm LAKPA SHERPA
 ---
-> 🪖 U.S. Army Veteran | 🎓 Cybersecurity Graduate | 🔐 Blue Team Focus | 📚 Security+ & CCNA) in Progress
+🪖 U.S. Army Veteran | 🎓 Cybersecurity Graduate | 🔐 Blue Team Focus | 📚 Security+ & CCNA in Progress
 
 <hr style="border:0.5px solid #39FF14;">
+
 ---
 
 <a href="https://www.linkedin.com/in/lakpa-sherpa-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
