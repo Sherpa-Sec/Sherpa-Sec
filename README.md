@@ -1,9 +1,10 @@
 # 👋 Hello, I'm LAKPA SHERPA
----
+
 🪖 U.S. Army Veteran | 🎓 Cybersecurity Graduate | 🔐 Blue Team Focus | 📚 Security+ & CCNA in Progress
 </p>
 
 <hr style="border:0.5px solid #39FF14;">
+
 ---
 
 ## 🎯 Brief Introduction
@@ -72,7 +73,6 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![Adaptable](https://img.shields.io/badge/Adaptable-9B59B6?style=flat-square)
 ![Teamwork](https://img.shields.io/badge/Teamwork-F1C40F?style=flat-square)
 
----
 
 </div>
 
@@ -90,4 +90,3 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 - 🔎 Detection & SOC Lab (Wazuh / Windows / Sysmon / Splunk)
 - 🤖 SOC Automation Project (SIEM + Scripting)
----
