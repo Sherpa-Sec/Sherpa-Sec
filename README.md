@@ -54,14 +54,12 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![DNS](https://img.shields.io/badge/DNS-0078D6?style=flat)
 ![NAT](https://img.shields.io/badge/NAT-333333?style=flat)
 ![IPv4/IPv6](https://img.shields.io/badge/IPv4%2FIPv6-4CAF50?style=flat)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 
 #### 🖥️ OS / Virtualization
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 
