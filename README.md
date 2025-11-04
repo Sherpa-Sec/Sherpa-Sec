@@ -17,40 +17,85 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 ## 🛠️ Technical Skills
 
-- Networking and Packet Analysis (Wireshark)
-- Web App Security (Burp Suite, OWASP ZAP, DVWA)
-- SIEM & Log Analysis (Microsoft Sentinel, Splunk, Elastic)
-- Malware & Threat Analysis (Velociraptor, Defender for Endpoint)
-- Privilege Escalation & Password Attacks (Hydra, John)
-- Virtualization & Lab Environments (VMware, Kali Linux, Windows)
-- Version Control (Git, GitHub)
+### 🛡️ Security & Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/Shodan-F20000?style=for-the-badge&logo=shodan&logoColor=white)
 
+---
 
-## 🎯 Projects & Skill Application
+### 🚨 Incident Response & Analysis
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=for-the-badge)
+![Phishing Detection](https://img.shields.io/badge/Phishing%20Detection-FF5733?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-2ECC71?style=for-the-badge)
 
-| Skill Area | Associated Project |
-|-----------|-------------------|
-| Web App Security (SQLi, XSS) | [Web App Pentest Lab](#) |
-| Packet Capture & Credential Analysis | [Wireshark Credential Capture Lab](#) |
-| Vulnerability Reporting | [Web App Pentest Lab](#) |
-| Malware Threat Analysis (Stuxnet) | [Stuxnet Analysis Lab](#) |
-| Password Cracking / Priv Esc | [System Hacking Lab](#) |
-| Wireless Security (WPA2/WPS testing) | [Wireless Network Security Lab](#) |
+---
 
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-222222?style=for-the-badge)
 
-## ⚙️ Tools & Platforms
+---
 
-**Network**
+### 🌐 Systems & Networking
+![DHCP](https://img.shields.io/badge/DHCP-4A90E2?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-0078D6?style=for-the-badge)
+![NAT](https://img.shields.io/badge/NAT-333333?style=for-the-badge)
+![IPv4/IPv6](https://img.shields.io/badge/IPv4%2FIPv6-4CAF50?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+### 🧰 Applications & Tools
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-34495E?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+### 🧠 Web Security Tools
+`Burp Suite` `OWASP ZAP`
+
+---
+
+### 🖥️ OS / Virtualization
+`Kali Linux` `Windows` `VMware`
+
+---
+
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🤝 Soft Skills
+`Analytical Thinking` `Problem Solving` `Adaptable` `Team Collaboration`
+
+🤝 Soft Skills
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-1ABC9C?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-3498DB?style=flat-square)
+![Adaptable](https://img.shields.io/badge/Adaptable-9B59B6?style=flat-square)
+![Teamwork](https://img.shields.io/badge/Teamwork-F1C40F?style=flat-square)
+
 `Wireshark`
 
 **Web Security**
-`Burp Suite` `OWASP ZAP` `DVWA`
+`Burp Suite` `OWASP ZAP` 
 
-**Endpoint / DFIR**
-`Microsoft Defender for Endpoint` `Velociraptor`
 
 **SIEM**
-`Microsoft Sentinel` `Splunk` `Elastic`
+ `Splunk` 
 
 **OS / Virtualization**
 `VMware` `Kali Linux` `Windows`
