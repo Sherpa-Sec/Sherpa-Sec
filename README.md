@@ -1,6 +1,5 @@
 # 👋 Hello, I'm LAKPA SHERPA
 ---
-<p align="center">
 🪖 U.S. Army Veteran | 🎓 Cybersecurity Graduate | 🔐 Blue Team Focus | 📚 Security+ & CCNA in Progress
 </p>
 
@@ -8,13 +7,6 @@
 
 
 ---
-<p align="center">
-  <b>🛡️ Cybersecurity | Blue Team & Network Security</b><br>
-  🪖 U.S. Army Veteran · 🎓 Cybersecurity Graduate · 🔐 Blue Team Focus · 📚 Security+ & CCNA in Progress
-</p>
-
-<hr style="border:0.5px solid #39FF14;">
-
 
 ## 🎯 Brief Introduction
 
