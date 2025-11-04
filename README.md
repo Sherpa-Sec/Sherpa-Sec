@@ -7,7 +7,7 @@
 
 ### 🎯 Brief Introduction
 
-Cybersecurity graduate & Army veteran developing skills in network defense, SIEM monitoring, and incident response. Actively building labs and pursuing Security+ & CCNA to launch into a Tier 1 SOC role.
+Cybersecurity graduate & Army veteran developing skills in network defense, SIEM monitoring, and incident response. Actively building labs and pursuing Security+ & CCNA to launch into a Tier 1 SOC/ Security Analyst role.
 
 ### 🧭 Objective
 
