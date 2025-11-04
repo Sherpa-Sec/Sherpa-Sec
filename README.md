@@ -87,5 +87,5 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 ## 🏗 Cybersecurity Projects
 
-- 🔐 [Wireless Network Security Assessment](https://github.com/lakpa-sherpa-hub/Wireless-Network-Security-Assessment)
+- 🔐 [Wireless Network Security Assessment]([https://github.com/lakpa-sherpa-hub/Wireless-Network-Security-Assessment](https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment)
 
