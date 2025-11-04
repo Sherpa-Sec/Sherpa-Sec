@@ -85,7 +85,7 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 </div>
 
-## 🚧 Active Builds
+## 🏗 Cybersecurity Projects
 
-- 🔎 Detection & SOC Lab (Wazuh / Windows / Sysmon / Splunk)
-- 🤖 SOC Automation Project (SIEM + Scripting)
+- 🔐 [Wireless Network Security Assessment](https://github.com/lakpa-sherpa-hub/Wireless-Network-Security-Assessment)
+
