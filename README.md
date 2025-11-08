@@ -1,6 +1,6 @@
 # 👋 Hello, I'm LAKPA SHERPA
 
-🪖 U.S. Army Veteran | 🎓 Cybersecurity Graduate | 🔐 Blue Team Focus | 📚 Home Labs & Continuous Learning Journey
+🪖 U.S. Army Combat Veteran | 🎓 Cybersecurity Graduate | 🔐 Blue Team Focus | 📚 Home Labs & Continuous Learning Journey
 </p>
 
 <hr style="border:0.5px solid #39FF14;">
@@ -8,36 +8,12 @@
 
 ## 🎯 Brief Introduction
 
-Cybersecurity graduate & Army veteran developing skills in network defense, SIEM monitoring, and incident response. Actively building labs and pursuing Security+ & CCNA to launch into a Tier 1 SOC/ Security Analyst role.
+Cybersecurity graduate and Army veteran building strong IT and security skills. Working on help desk, networking, and troubleshooting labs while growing in areas like SIEM monitoring, incident response, and basic network defense. Preparing for Security+ and CCNA,  targeting entry-level roles in IT support, NOC, or SOC Tier 1.
 
-## 🧭 Objective
-
-Entry-level cybersecurity and IT professional with a background in networking, security fundamentals, and hands-on lab experience. Seeking a Tier 1 SOC or IT support role where I can apply threat detection, system hardening, and troubleshooting skills while continuing to grow in security operations.
-
-> Continuously building hands-on labs to strengthen SOC, blue-team, and pentesting skills.
+> Continuously building and learning through hands-on labs to strengthen SOC, blue team, and basic pentesting skills.
 
 
 ## 🛠️ Technical Skills
-
-#### 🛡️ Security & Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=flat&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=flat)
-![Shodan](https://img.shields.io/badge/Shodan-F20000?style=flat&logo=shodan&logoColor=white)
-
-
-#### 🌐 Web Security Tools
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=flat&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)
-
-
-#### 🚨 Incident Response & Analysis
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=flat)
-![Phishing Detection](https://img.shields.io/badge/Phishing%20Detection-FF5733?style=flat)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-2ECC71?style=flat)
-
 
 #### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -46,6 +22,9 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-222222?style=flat)
 
+#### 🌐 Web Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7A16?style=flat&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)
 
 #### 🖥️ OS / Virtualization
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
@@ -60,12 +39,23 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 ![DBMS](https://img.shields.io/badge/DBMS-34495E?style=flat)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=flat&logo=microsoft&logoColor=white)
 
+#### 🛡️ Security & Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=flat)
+![Shodan](https://img.shields.io/badge/Shodan-F20000?style=flat&logo=shodan&logoColor=white)
 
-### 🤝 Soft Skills
-![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-1ABC9C?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-3498DB?style=flat-square)
-![Adaptable](https://img.shields.io/badge/Adaptable-9B59B6?style=flat-square)
-![Teamwork](https://img.shields.io/badge/Teamwork-F1C40F?style=flat-square)
+
+
+
+#### 🚨 Incident Response & Analysis
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-8E44AD?style=flat)
+![Phishing Detection](https://img.shields.io/badge/Phishing%20Detection-FF5733?style=flat)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-2ECC71?style=flat)
+
+
 
 
 </div>
@@ -80,7 +70,14 @@ Entry-level cybersecurity and IT professional with a background in networking, s
 
 </div>
 
-## 🏗 Cybersecurity Projects
+## 🔐🔧 Cybersecurity / IT Projects
 
-- 🔐 [Wireless Network Security Assessment](https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment)
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | 🔧 [Help Desk Ticket Simulation (Jira Service Management)](https://github.com/Sherpa-Sec/Help-Desk-Ticket-Simulation) | Six real-world help desk scenarios with troubleshooting steps, notes, and resolutions |
+| 2 | 🔐 [Wireless Network Security Assessment](https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment) | Reviewed home/public Wi-Fi, identified weak settings, and applied security fixes |
+
+
+
+
 
