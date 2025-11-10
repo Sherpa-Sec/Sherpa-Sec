@@ -11,7 +11,7 @@ Recent graduate transitioning into IT and security. I’m building hands-on skil
 > Continuously building and learning through hands-on labs.
 <br>
 
-## 🖥️ Tech Stack
+## 🧰 Tech Stack
 
 
 #### Programming & Scripting
@@ -41,7 +41,7 @@ Recent graduate transitioning into IT and security. I’m building hands-on skil
 
 <br>
 
-## 🎓 Certifications
+## 🛡️ Certifications
 
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
 [![AI For Everyone](https://img.shields.io/badge/AI%20For%20Everyone-FF6F61?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learn/ai-for-everyone)
@@ -49,7 +49,7 @@ Recent graduate transitioning into IT and security. I’m building hands-on skil
 
 <br>
 
-## 🧰 Cybersecurity/ IT Projects
+## 🖥️ Information Technology & Cybersecurity Projects
 
 | # | Project | Description |
 |---|---------|-------------|
