@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lakpa Sherpa, and welcome to my GitHub portfolio
+# 👋 Hello there, welcome to my GitHub portfolio
 
 🎓 Cybersecurity Graduate | 🪖 Army Veteran | 🔐 Seeking entry-level oppurtunities in Information Technolgy & Cybersecurity 
 
