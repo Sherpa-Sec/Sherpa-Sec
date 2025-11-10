@@ -6,7 +6,7 @@
 
 ## 🌱 About Me
 
-Cybersecurity graduate transitioning into IT and security. I’m building hands-on skills through home labs, networking projects, and security exercises. Currently, I’m strengthening my core fundamentals for entry-level roles in IT Support, System Administration, NOC/ SOC Tier 1, and Junior Cybersecurity work while studying for Security+.
+Recent graduate transitioning into IT and security. I’m building hands-on skills through home labs, networking projects, and security exercises. Currently, I’m strengthening my core fundamentals for entry-level roles in IT Support, System Administration, NOC/ SOC Tier 1, and Junior Cybersecurity work while studying for Security+.
 
 > Continuously building and learning through hands-on labs.
 
