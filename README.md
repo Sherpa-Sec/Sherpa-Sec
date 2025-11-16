@@ -1,18 +1,21 @@
 # 👋 Hello there, welcome to my GitHub portfolio
 
-🎓 Cybersecurity Graduate | 🪖 Army Veteran | 🔐 Seeking entry-level oppurtunities in Information Technolgy & Cybersecurity 
-
+🎓 Cybersecurity Graduate | 🪖 Army Veteran | 🌐 Multilingual | 🔍 Curious Learner
 <br>
 
 ## 🌱 About Me
+- Building skills in system administration, network security, incident response, and threat detection
+- Creating projects based on real IT support, network security, and SOC tasks
+- Studying for CompTIA Security+ (SY0-701)
 
-Recent graduate transitioning into IT and security. I’m building hands-on skills through home labs, networking projects, and security exercises. Currently, I’m strengthening my core fundamentals for entry-level roles in IT Support, System Administration, NOC/ SOC Tier 1, and Junior Cybersecurity work while studying for Security+
+**<u>Fun fact:</u>** I like anime, cycling, traveling, and exploring new cultures and food
 
-> Continuously building and learning through hands-on labs.
+> Continuously building and learning through hands-on labs
+
+
 <br>
 
 ## 🧰 Tech Stack
-
 
 #### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
