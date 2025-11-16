@@ -22,13 +22,14 @@ Recent graduate transitioning into IT and security. I’m building hands-on skil
 ![CLI](https://img.shields.io/badge/CLI-222222?style=flat)
 
 
-
 #### Applications & Tools
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=flat&logo=powershell&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-34495E?style=flat)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=flat&logo=microsoft&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
 
 #### Security & Monitoring
 ![Splunk](https://img.shields.io/badge/Splunk%20Cloud-000000?style=flat&logo=splunk&logoColor=white)
@@ -37,6 +38,8 @@ Recent graduate transitioning into IT and security. I’m building hands-on skil
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=flat)
 ![Shodan](https://img.shields.io/badge/Shodan-F20000?style=flat&logo=shodan&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-009E73?style=flat&logo=tenable&logoColor=white)
+
 
 
 <br>
