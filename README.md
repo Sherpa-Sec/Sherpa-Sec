@@ -65,9 +65,8 @@
 
 <br>
 
-## 🤝 Connect With Me  
+## 🤝 Let's Connect!  
 - LinkedIn: [https://www.linkedin.com/in/lakpa-sherpa](https://www.linkedin.com/in/lakpa-sherpa-/)   
-- GitHub Projects: [https://github.com/Sherpa-Sec](https://github.com/Sherpa-Sec)  
 
 Thank you for stopping by 🙂
 
