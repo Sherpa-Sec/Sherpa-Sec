@@ -1,6 +1,7 @@
 # 👋 Hello there, welcome to my GitHub portfolio
 
 🎓 Cybersecurity Graduate | 🪖 Army Veteran | 🌐 Multilingual | 🔍 Curious Learner
+
 <br>
 
 ## 🌱 About Me
