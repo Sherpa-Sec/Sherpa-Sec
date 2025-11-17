@@ -62,6 +62,7 @@
 |---|---------|-------------|
 | 1 | [Help Desk Ticket Simulation (Jira Service Management)](https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab) | Six real-world help desk scenarios with troubleshooting steps, notes, and resolutions |
 | 2 | [Wireless Network Security Assessment](https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment) | Reviewed home/public Wi-Fi, identified weak settings, and applied security fixes |
+| 3 | [Network Security & Vulnerability Assessment](https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Lab) | Scanned a virtual lab system using Nmap and Nessus, documented findings, and wrote remediation steps |
 
 <br>
 
