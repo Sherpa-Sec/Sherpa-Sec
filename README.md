@@ -36,7 +36,7 @@
 
 <br>
 
-## 🖥️ Information Technology & Cybersecurity Projects
+## 🖥️ Cybersecurity & IT Projects
 
 | # | Project | Description |
 |---|---------|-------------|
