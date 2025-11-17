@@ -1,6 +1,6 @@
 # 👋 Hello there, welcome to my GitHub portfolio
 
-🎓 Cybersecurity Graduate | 🪖 Army Veteran | 🌐 Multilingual | 🔍 Curious Learner
+🎓 **Cybersecurity Graduate**  |  🪖  **Army Veteran** |  🌐 **Multilingual**  |  🔍 **Curious Learner**  |  🧪 **Continuously learning through hands-on labs**  
 
 <br>
 
@@ -9,9 +9,8 @@
 - Creating projects based on real IT support, network security, and SOC tasks
 - Studying for CompTIA Security+ (SY0-701)
 
-**<u>Fun fact:</u>** I like anime, cycling, traveling, and exploring new cultures and food
+>**Fun fact about me:** I like anime, cycling, traveling, and exploring new cultures and food
 
-> Continuously building and learning through hands-on labs
 
 
 <br>
@@ -50,6 +49,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakpa%20Sherpa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakpa-sherpa-/)
 
 Thank you for stopping by 🙂
-
 
 
