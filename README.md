@@ -1,10 +1,16 @@
-# 👋 Hello there, welcome to my GitHub portfolio
+
 
 <p align="left">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Always+Learning+%26+Building" 
   />
 </p>
+
+
+
+# 👋 Hello there, welcome to my GitHub portfolio
+
+<br>
 
 🎓 **Cybersecurity Graduate** | 🪖 **Army Veteran** | 🌐 **Multilingual** | 🔍 **Curious Learner** | 🧪 **Hands-on Lab Builder**
 
