@@ -1,16 +1,25 @@
 # 👋 Hello there, welcome to my GitHub portfolio
 
-🎓 **Cybersecurity Graduate**  |  🪖  **Army Veteran** |  🌐 **Multilingual**  |  🔍 **Curious Learner**  |  🧪 **Continuously learning through hands-on labs**  
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Always+Learning+%26+Building" 
+  />
+</p>
+
+🎓 **Cybersecurity Graduate** | 🪖 **Army Veteran** | 🌐 **Multilingual** | 🔍 **Curious Learner** | 🧪 **Hands-on Lab Builder**
 
 <br>
 
 ## 🌱 About Me
-- Building skills in system administration, network security, incident response, and threat detection
-- Creating projects based on real IT support, network security, and SOC tasks
+- Building skills in system administration, network security, incident response, and threat detection  
+- Creating projects based on real IT support, network security, and SOC tasks  
 - Studying for CompTIA Security+ (SY0-701)
 
->**Fun fact about me:** I like anime, cycling, traveling, and exploring new cultures and food
+> **Fun fact:** I like anime, cycling, traveling, and exploring new cultures and food
 
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=Sherpa-Sec&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 <br>
