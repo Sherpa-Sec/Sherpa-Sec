@@ -23,9 +23,6 @@
 
 > **Fun fact:** I like anime, cycling, traveling, and exploring new cultures and food
 
-<br>
-
-![Visitors](https://komarev.com/ghpvc/?username=Sherpa-Sec&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 <br>
