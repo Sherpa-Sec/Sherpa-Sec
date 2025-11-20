@@ -1,22 +1,26 @@
 
-
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Always+Learning+%26+Building" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=39FF14&center=false&vCenter=true&width=700&lines=Always+Learning%2C+Building%2C+Growing+%26+Evolving" 
   />
 </p>
 
-
-
-# 👋 Hello there, welcome to my GitHub portfolio
+<h1 align="left">👋 Hello there, welcome to my GitHub portfolio</h1>
 
 <br>
 
-🎓 **Cybersecurity Graduate** | 🪖 **Army Veteran** | 🌐 **Multilingual** | 🔍 **Curious Learner** | 🧪 **Hands-on Lab Builder**
+<p align="left">
+  🎓 <b>Cybersecurity Graduate</b> |
+  🪖 <b>Army Veteran</b> |
+  🌐 <b>Multilingual</b> |
+  🔍 <b>Curious Learner</b> |
+  🧪 <b>Hands-on Lab Builder</b>
+</p>
 
 <br>
 
-## 🌱 About Me
+<h2 align="left">🌱 About Me</h2>
+
 - Building skills in system administration, network security, incident response, and threat detection  
 - Creating projects based on real IT support, network security, and SOC tasks  
 - Studying for CompTIA Security+ (SY0-701)
@@ -51,9 +55,10 @@
 
 | # | Project | Description |
 |---|---------|-------------|
-| 1 | [Jira Ticket Workflow Simulation](https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab) | Six real-world help desk scenarios with troubleshooting steps, notes, and resolutions |
-| 2 | [Wireless Security Assessment](https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment) | Reviewed home/public Wi-Fi, identified weak settings, and applied security fixes |
-| 3 | [Network Security & Vulnerability Assessment](https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment) | Scanned a virtual lab system using Nmap and Nessus, documented findings, and wrote remediation steps |
+| 1 | [Network Security & Vulnerability Assessment](https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment) | Scanned a virtual lab system using Nmap and Nessus, documented findings, and wrote remediation steps |
+| 2 | [Jira Ticket Workflow Simulation](https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab) | Six real-world help desk scenarios with troubleshooting steps, notes, and resolutions |
+| 3 | [Wireless Security Assessment](https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment) | Reviewed home/public Wi-Fi, identified weak settings, and applied security fixes |
+
 
 <br>
 
