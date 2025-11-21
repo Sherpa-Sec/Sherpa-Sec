@@ -23,7 +23,6 @@
 
 - Building skills in system administration, network security, incident response, and threat detection  
 - Creating projects based on real IT support, network security, and SOC tasks  
-- Studying for CompTIA Security+ (SY0-701)
 
 > **Fun fact:** I like anime, cycling, traveling, and exploring new cultures and food
 
