@@ -21,10 +21,25 @@
 
 <h2 align="left">🌱 About Me</h2>
 
-- Building skills in system administration, network security, incident response, and threat detection  
-- Creating projects based on real IT support, network security, and SOC tasks  
+- Building hands-on IT and cybersecurity skills through real-world labs and projects  
+- Exploring entry-level roles such as:  
+  🔹 IT Help Desk / Support  
+  🔹 System Administrator  
+  🔹 NOC / SOC Tier 1  
+  🔹 Junior Cybersecurity Specialist  
+  🔹 Data Center Technician
+  🔹 & Similar
 
-> **Fun fact:** I like anime, cycling, traveling, and exploring new cultures and food
+> **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food
+
+<br>
+
+<h2 align="left">🌍 Global Experience & Languages</h2>
+
+| Category | Tools |
+|---------|-------|
+| **Countries Traveled** | ![Nepal](https://img.shields.io/badge/Nepal-DC143C?style=flat&logoColor=white) ![India](https://img.shields.io/badge/India-FF9933?style=flat&logoColor=white) ![Bhutan](https://img.shields.io/badge/Bhutan-F4C430?style=flat&logoColor=black) ![United States](https://img.shields.io/badge/USA-3C3B6E?style=flat&logoColor=white) ![Germany](https://img.shields.io/badge/Germany-000000?style=flat&logoColor=white) ![Kuwait](https://img.shields.io/badge/Kuwait-00966E?style=flat&logoColor=white) ![Iraq](https://img.shields.io/badge/Iraq-CE1126?style=flat&logoColor=white) ![Israel](https://img.shields.io/badge/Israel-0057B7?style=flat&logoColor=white) ![UAE](https://img.shields.io/badge/UAE-00732F?style=flat&logoColor=white) ![United%20Kingdom](https://img.shields.io/badge/UK-012169?style=flat&logoColor=white) ![Scotland](https://img.shields.io/badge/Scotland-0065BD?style=flat&logoColor=white) ![Poland](https://img.shields.io/badge/Poland-DC143C?style=flat&logoColor=white) ![Portugal](https://img.shields.io/badge/Portugal-006600?style=flat&logoColor=white) |
+| **Languages Spoken** | ![Sherpa](https://img.shields.io/badge/Sherpa-4A90E2?style=flat&logoColor=white) ![English](https://img.shields.io/badge/English-0078D4?style=flat&logoColor=white) ![Hindi](https://img.shields.io/badge/Hindi-FF9933?style=flat&logoColor=white) ![Nepali](https://img.shields.io/badge/Nepali-DC143C?style=flat&logoColor=white) ![Urdu](https://img.shields.io/badge/Urdu-00853F?style=flat&logoColor=white) ![Bengali](https://img.shields.io/badge/Bengali-006A4E?style=flat&logoColor=white) ![Punjabi](https://img.shields.io/badge/Punjabi-FFC20E?style=flat&logoColor=black) ![Assamese](https://img.shields.io/badge/Assamese-3366CC?style=flat&logoColor=white) |
 
 
 
