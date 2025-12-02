@@ -27,8 +27,7 @@
   🔹 System Administrator  
   🔹 NOC / SOC Tier 1  
   🔹 Junior Cybersecurity Specialist  
-  🔹 Data Center Technician
-  🔹 & Similar
+  🔹 Data Center Technician & Similar
 
 > **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food
 
