@@ -21,7 +21,7 @@
 
 <h2 align="left">🌱 About Me</h2>
 
-- Building hands-on IT and cybersecurity skills through real-world labs and projects.
+Building hands-on IT and cybersecurity skills through real-world labs and projects.
 
 > **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food
 
