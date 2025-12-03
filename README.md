@@ -21,12 +21,7 @@
 
 <h2 align="left">🌱 About Me</h2>
 
-- Building hands-on IT and cybersecurity skills through real-world labs and projects  
-- Exploring entry-level roles such as:    
-  🔹 System Administrator  
-  🔹 NOC / SOC Tier 1  
-  🔹 Junior Cybersecurity Specialist  
-  🔹 Data Center Technician & similar oppurtunities
+- Building hands-on IT and cybersecurity skills through real-world labs and projects.
 
 > **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food
 
