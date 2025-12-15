@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 align="left"> About Me</h2>
+<h2 align="left"> 👨‍💻 About Me</h2>
 
 - Cybersecurity graduate and U.S. Army veteran building practical IT and security skills through real-world labs and projects.
 - Interested in system administration, networking, security operations, and continuous learning.
