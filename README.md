@@ -57,75 +57,69 @@
 
 ## 🧪 Projects
 
-<table>
+<table width="100%">
   <tr>
-    <!-- Network Security & Vulnerability Assessment -->
-    <td align="center" width="33%">
+    <!-- Project 1 -->
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
-        <img
-          src="https://github.com/user-attachments/assets/69d4abc6-5651-4c2c-af70-51bb2d7055a1"
-          style="width:100%; height:200px; object-fit:cover;"
-        />
+        <img src="https://github.com/user-attachments/assets/69d4abc6-5651-4c2c-af70-51bb2d7055a1"
+             width="100%" height="200" style="object-fit:cover;" />
       </a>
-      <p style="margin:8px 0; font-size:1.35em; font-weight:700; color:#39FF14;">
+      <h3 style="color:#39FF14; margin:10px 0 6px;">
         Network Security & Vulnerability Assessment
-      </p>
-      <sub>
+      </h3>
+      <p style="min-height:60px; margin:0 8px;">
         Conducted Nmap and Nessus scans, analyzed vulnerabilities, and documented remediation steps.
-      </sub>
-      <br/><br/>
-      <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment" target="_blank">
+      </p>
+      <br/>
+      <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
         <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
       </a>
       <br/><br/>
       <sub>Tags: Nmap, Nessus, Vulnerability Management</sub>
     </td>
-    <!-- Jira Ticket Workflow Simulation -->
-    <td align="center" width="33%">
+    <!-- Project 2 -->
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">
-        <img
-          src="https://github.com/user-attachments/assets/564d1cac-b7de-4ae2-87d1-ed4751687036"
-          style="width:100%; height:200px; object-fit:cover;"
-        />
+        <img src="https://github.com/user-attachments/assets/564d1cac-b7de-4ae2-87d1-ed4751687036"
+             width="100%" height="200" style="object-fit:cover;" />
       </a>
-      <p style="margin:8px 0; font-size:1.35em; font-weight:700; color:#39FF14;">
+      <h3 style="color:#39FF14; margin:10px 0 6px;">
         Jira Ticket Workflow Simulation
-      </p>
-      <sub>
+      </h3>
+      <p style="min-height:60px; margin:0 8px;">
         Simulated real-world IT support incidents using Jira Service Management workflows.
-      </sub>
-      <br/><br/>
-      <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab" target="_blank">
+      </p>
+      <br/>
+      <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">
         <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
       </a>
       <br/><br/>
       <sub>Tags: IT Support, Jira, Incident Management</sub>
     </td>
-    <!-- Wireless Security Assessment -->
-    <td align="center" width="33%">
+    <!-- Project 3 -->
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">
-        <img
-          src="https://github.com/user-attachments/assets/4b1b3dee-6252-49cb-a3ee-96d1fa0b8bb1"
-          style="width:100%; height:200px; object-fit:cover;"
-        />
+        <img src="https://github.com/user-attachments/assets/4b1b3dee-6252-49cb-a3ee-96d1fa0b8bb1"
+             width="100%" height="200" style="object-fit:cover;" />
       </a>
-      <p style="margin:8px 0; font-size:1.35em; font-weight:700; color:#39FF14;">
+      <h3 style="color:#39FF14; margin:10px 0 6px;">
         Wireless Security Assessment
-      </p>
-      <sub>
+      </h3>
+      <p style="min-height:60px; margin:0 8px;">
         Reviewed wireless configurations, identified weak controls, and applied hardening measures.
-      </sub>
-      <br/><br/>
-      <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment" target="_blank">
+      </p>
+      <br/>
+      <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">
         <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
       </a>
       <br/><br/>
       <sub>Tags: Wi-Fi Security, Network Hardening, Risk Assessment</sub>
     </td>
+
   </tr>
 </table>
 
-<br>
 
 ## Achievements
 
