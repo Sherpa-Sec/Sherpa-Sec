@@ -37,7 +37,11 @@
  
 <br>
 
-## **Current project** - Cybersecurity Homelab
+<table>
+  <tr>
+    <td align="left">
+
+## 🧪 **Current Project** — Cybersecurity Homelab
 
 - I’m currently working on my **Cybersecurity Homelab**, a hands-on virtual enterprise environment designed to build practical IT and security skills.
 - The lab includes pfSense firewalling, Active Directory, VLAN segmentation, centralized logging, and vulnerability scanning.
@@ -45,8 +49,11 @@
 
 <img width="1077" height="713" alt="VirtualBox with organized VM folders" src="https://github.com/user-attachments/assets/6df506a8-3a2e-4e5f-9dbd-7680fd8898ef" />
 
-<br>
+</td>
+  </tr>
+</table>
 
+<br>
 
 ## 🧩 Projects
 
@@ -130,7 +137,7 @@
 
 <br>
 
-## 🤝 Volunteering & Community Involvement
+## 🙌 Volunteering & Community Involvement
 
 | Organization | Role & Contribution |
 |--------------|---------------------|
