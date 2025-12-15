@@ -30,10 +30,10 @@
 
 | Category | Tools |
 |---------|-------|
-| **Operating Systems & Homelab** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Windows Server 2022](https://img.shields.io/badge/Windows%20Server%202022-0078D6?style=flat&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat&logo=windows&logoColor=white) |
-| **Programming & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-222222?style=flat) |
-| **Applications & Tools** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=flat&logo=powershell&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-34495E?style=flat) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=flat&logo=microsoft&logoColor=white) |
-| **Security, Networking & Monitoring** | ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat) ![Nessus](https://img.shields.io/badge/Nessus-009E73?style=flat&logo=tenable&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-0B5FFF?style=flat) ![Splunk](https://img.shields.io/badge/Splunk%20Cloud-000000?style=flat&logo=splunk&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0067B8?style=flat&logo=windows&logoColor=white) ![Windows File Server](https://img.shields.io/badge/Windows%20File%20Server-0078D6?style=flat&logo=windows&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=flat) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
+| **Operating Systems & Homelab** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-121011?style=flat&logo=kali-linux&logoColor=39FF14) ![Ubuntu](https://img.shields.io/badge/Ubuntu-121011?style=flat&logo=ubuntu&logoColor=39FF14) ![Windows Server 2022](https://img.shields.io/badge/Windows%20Server%202022-121011?style=flat&logo=windows&logoColor=39FF14) ![Windows 11](https://img.shields.io/badge/Windows%2011-121011?style=flat&logo=windows&logoColor=39FF14) |
+| **Programming & Scripting** | ![Python](https://img.shields.io/badge/Python-121011?style=flat&logo=python&logoColor=39FF14) ![SQL](https://img.shields.io/badge/SQL-121011?style=flat&logo=postgresql&logoColor=39FF14) ![C++](https://img.shields.io/badge/C%2B%2B-121011?style=flat&logo=cplusplus&logoColor=39FF14) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=39FF14) ![CLI](https://img.shields.io/badge/CLI-121011?style=flat&logoColor=39FF14) |
+| **Applications & Tools** | ![Jira](https://img.shields.io/badge/Jira-121011?style=flat&logo=jira&logoColor=39FF14) ![VMware](https://img.shields.io/badge/VMware-121011?style=flat&logo=vmware&logoColor=39FF14) ![PowerShell](https://img.shields.io/badge/PowerShell-121011?style=flat&logo=powershell&logoColor=39FF14) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-121011?style=flat&logo=visual-studio&logoColor=39FF14) ![DBMS](https://img.shields.io/badge/DBMS-121011?style=flat&logoColor=39FF14) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-121011?style=flat&logo=microsoft&logoColor=39FF14) |
+| **Security, Networking & Monitoring** | ![pfSense](https://img.shields.io/badge/pfSense-121011?style=flat&logoColor=39FF14) ![Nessus](https://img.shields.io/badge/Nessus-121011?style=flat&logo=tenable&logoColor=39FF14) ![Wazuh](https://img.shields.io/badge/Wazuh-121011?style=flat&logoColor=39FF14) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=39FF14) ![Active Directory](https://img.shields.io/badge/Active%20Directory-121011?style=flat&logo=windows&logoColor=39FF14) ![Windows File Server](https://img.shields.io/badge/Windows%20File%20Server-121011?style=flat&logo=windows&logoColor=39FF14) ![Nmap](https://img.shields.io/badge/Nmap-121011?style=flat&logoColor=39FF14) ![Wireshark](https://img.shields.io/badge/Wireshark-121011?style=flat&logo=wireshark&logoColor=39FF14) |
  
 <br>
 
@@ -73,7 +73,7 @@
       </p>
       <br/>
       <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
-        <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Repo-0D1117?style=flat&logo=github&logoColor=39FF14" />
       </a>
       <br/><br/>
       <sub>Tags: Nmap, Nessus, Vulnerability Management</sub>
@@ -92,7 +92,7 @@
       </p>
       <br/>
       <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">
-        <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Repo-0D1117?style=flat&logo=github&logoColor=39FF14" />
       </a>
       <br/><br/>
       <sub>Tags: IT Support, Jira, Incident Management</sub>
@@ -111,7 +111,7 @@
       </p>
       <br/>
       <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">
-        <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Repo-0D1117?style=flat&logo=github&logoColor=39FF14" />
       </a>
       <br/><br/>
       <sub>Tags: Wi-Fi Security, Network Hardening, Risk Assessment</sub>
@@ -121,50 +121,47 @@
 </table>
 
 
-## Achievements
+## 🎖️ Achievements
 
 | Category | Honors & Awards |
 |---------|-----------------|
-| **Academic Honors** | ![SALUTE Veterans Honor Society](https://img.shields.io/badge/SALUTE%20Veterans%20Honor%20Society-2B2B2B?style=flat&logoColor=white) ![Dean’s List Baruch College](https://img.shields.io/badge/Dean’s%20List%20Baruch%20College-2B2B2B?style=flat&logoColor=white) |
-| **Military Service Awards** | ![Army Commendation Medal (C)](https://img.shields.io/badge/Army%20Commendation%20Medal%20(C)-D1D5DB?style=flat&logoColor=000000) ![Army Good Conduct Medal](https://img.shields.io/badge/Army%20Good%20Conduct%20Medal-D1D5DB?style=flat&logoColor=000000) ![Army Achievement Medal x3](https://img.shields.io/badge/Army%20Achievement%20Medal%20×3-D1D5DB?style=flat&logoColor=000000) |
-| **Campaign & Service Medals** | ![OIR Campaign Medal](https://img.shields.io/badge/OIR%20Campaign%20Medal-2B2B2B?style=flat&logoColor=white) ![GWOT Service Medal](https://img.shields.io/badge/GWOT%20Service%20Medal-2B2B2B?style=flat&logoColor=white) |
+| **Academic Honors** | ![SALUTE Veterans Honor Society](https://img.shields.io/badge/SALUTE%20Veterans%20Honor%20Society-121011?style=flat&logoColor=39FF14) ![Dean’s List Baruch College](https://img.shields.io/badge/Dean’s%20List%20Baruch%20College-121011?style=flat&logoColor=39FF14) |
+| **Military Service Awards** | ![Army Commendation Medal (C)](https://img.shields.io/badge/Army%20Commendation%20Medal%20(C)-121011?style=flat&logoColor=39FF14) ![Army Good Conduct Medal](https://img.shields.io/badge/Army%20Good%20Conduct%20Medal-121011?style=flat&logoColor=39FF14) ![Army Achievement Medal ×3](https://img.shields.io/badge/Army%20Achievement%20Medal%20×3-121011?style=flat&logoColor=39FF14) |
+| **Campaign & Service Medals** | ![OIR Campaign Medal](https://img.shields.io/badge/OIR%20Campaign%20Medal-121011?style=flat&logoColor=39FF14) ![GWOT Service Medal](https://img.shields.io/badge/GWOT%20Service%20Medal-121011?style=flat&logoColor=39FF14) |
 
 <br>
 
-## Volunteering & Community Involvement
+## 🌱 Volunteering & Community Involvement
 
 | Organization | Role & Contribution |
 |--------------|---------------------|
-| **ISACA New York Metropolitan Chapter** | ![Event Support](https://img.shields.io/badge/Event%20Support-2F6FDB?style=flat&logoColor=white) ![Cybersecurity Community](https://img.shields.io/badge/Cybersecurity%20Community-2F6FDB?style=flat&logoColor=white) |
-| **Student Veterans of America (SVA)** | ![Event Planning](https://img.shields.io/badge/Event%20Planning-0B3C5D?style=flat&logoColor=white) ![Veteran Support](https://img.shields.io/badge/Veteran%20Support-0B3C5D?style=flat&logoColor=white) |
-| **United Sherpa Association (USA), Inc.** |![Food Distribution](https://img.shields.io/badge/Food%20Distribution-2F6FDB?style=flat&logoColor=white) ![Disaster Relief](https://img.shields.io/badge/Disaster%20Relief-2F6FDB?style=flat&logoColor=white) |
-| **Met Council** | ![Community Support](https://img.shields.io/badge/Community%20Support-0B3C5D?style=flat&logoColor=white) ![Social Services](https://img.shields.io/badge/Social%20Services-0B3C5D?style=flat&logoColor=white) |
-
-
+| **ISACA New York Metropolitan Chapter** | ![Event Support](https://img.shields.io/badge/Event%20Support-121011?style=flat&logoColor=39FF14) ![Cybersecurity Community](https://img.shields.io/badge/Cybersecurity%20Community-121011?style=flat&logoColor=39FF14) |
+| **Student Veterans of America (SVA)** | ![Event Planning](https://img.shields.io/badge/Event%20Planning-121011?style=flat&logoColor=39FF14) ![Veteran Support](https://img.shields.io/badge/Veteran%20Support-121011?style=flat&logoColor=39FF14) |
+| **United Sherpa Association (USA), Inc.** | ![Food Distribution](https://img.shields.io/badge/Food%20Distribution-121011?style=flat&logoColor=39FF14) ![Disaster Relief](https://img.shields.io/badge/Disaster%20Relief-121011?style=flat&logoColor=39FF14) |
+| **Met Council** | ![Community Support](https://img.shields.io/badge/Community%20Support-121011?style=flat&logoColor=39FF14) ![Social Services](https://img.shields.io/badge/Social%20Services-121011?style=flat&logoColor=39FF14) |
 
 <br>
 
-## Certifications
+## 🎓 Certifications
 
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
-[![AI For Everyone](https://img.shields.io/badge/AI%20For%20Everyone-FF6F61?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learn/ai-for-everyone)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-121011?style=for-the-badge&logo=google&logoColor=39FF14)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+[![AI For Everyone](https://img.shields.io/badge/AI%20For%20Everyone-121011?style=for-the-badge&logo=coursera&logoColor=39FF14)](https://www.coursera.org/learn/ai-for-everyone)
 
 <br>
 
 <div style="display:flex; align-items:center; justify-content:space-between;">
 
-  <h3>🤝 Let's Connect!</h3>
+ <h3>🤝 Let's Connect!</h3>
 
-  <div>
-    <a href="https://github.com/Sherpa-Sec" target="_blank">
-      <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=39FF14" />
-    </a>
-    <a href="https://www.linkedin.com/in/lakpa-sherpa-/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </div>
-
+<div>
+  <a href="https://github.com/Sherpa-Sec" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=39FF14" />
+  </a>
+  <a href="https://www.linkedin.com/in/lakpa-sherpa-/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+  </a>
 </div>
+
 
 <br>
 
