@@ -1,14 +1,24 @@
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=39FF14&vCenter=true&width=750&lines=Hello+there,+welcome+to+my+GitHub+portfolio;Always+learning,+building,+and+improving" 
+  />
+</p>
 
-
-<h1 align="left"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hello there, welcome to my GitHub portfolio</h1>
+<img
+  align="right"
+  src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+  width="180"
+/>
 
 <br>
 
-**`Cybersecurity Graduate | Army Veteran | Multilingual | Curious Learner | Hands-on Lab Builder`**
+<p align="left">
+  <b><code>Cybersecurity Graduate | Army Veteran | Curious Learner</code></b>
+</p>
 
 <br>
 
-<h2 align="left">🌱 About Me</h2>
+<h2 align="left"> About Me</h2>
 
 - Cybersecurity graduate and U.S. Army veteran building practical IT and security skills through real-world labs and projects.
 - Interested in system administration, networking, security operations, and continuous learning.
@@ -27,7 +37,7 @@
  
 <br>
 
-## 👇 **Current project**- Cybersecurity Homelab
+## **Current project** - Cybersecurity Homelab
 
 - I’m currently working on my **Cybersecurity Homelab**, a hands-on virtual enterprise environment designed to build practical IT and security skills.
 - The lab includes pfSense firewalling, Active Directory, VLAN segmentation, centralized logging, and vulnerability scanning.
@@ -35,16 +45,20 @@
 
 <img width="1077" height="713" alt="VirtualBox with organized VM folders" src="https://github.com/user-attachments/assets/6df506a8-3a2e-4e5f-9dbd-7680fd8898ef" />
 
+<br>
+
 
 ## 🧩 Projects
 
 <table>
   <tr>
-    <!-- Project 1 -->
+    <!-- Network Security & Vulnerability Assessment -->
     <td align="center" width="33%">
       <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
-        <img src="https://github.com/user-attachments/assets/69d4abc6-5651-4c2c-af70-51bb2d7055a1"
-             style="width:100%; height:200px; object-fit:cover;" />
+        <img
+          src="https://github.com/user-attachments/assets/69d4abc6-5651-4c2c-af70-51bb2d7055a1"
+          style="width:100%; height:200px; object-fit:cover;"
+        />
       </a>
       <p style="margin:8px 0; font-size:1.35em; font-weight:700; color:#39FF14;">
         Network Security & Vulnerability Assessment
@@ -53,17 +67,19 @@
         Conducted Nmap and Nessus scans, analyzed vulnerabilities, and documented remediation steps.
       </sub>
       <br/><br/>
-      <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
+      <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment" target="_blank">
         <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
       </a>
       <br/><br/>
       <sub>Tags: Nmap, Nessus, Vulnerability Management</sub>
     </td>
-    <!-- Project 2 -->
+    <!-- Jira Ticket Workflow Simulation -->
     <td align="center" width="33%">
       <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">
-        <img src="https://github.com/user-attachments/assets/564d1cac-b7de-4ae2-87d1-ed4751687036"
-             style="width:100%; height:200px; object-fit:cover;" />
+        <img
+          src="https://github.com/user-attachments/assets/564d1cac-b7de-4ae2-87d1-ed4751687036"
+          style="width:100%; height:200px; object-fit:cover;"
+        />
       </a>
       <p style="margin:8px 0; font-size:1.35em; font-weight:700; color:#39FF14;">
         Jira Ticket Workflow Simulation
@@ -72,17 +88,19 @@
         Simulated real-world IT support incidents using Jira Service Management workflows.
       </sub>
       <br/><br/>
-      <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">
+      <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab" target="_blank">
         <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
       </a>
       <br/><br/>
       <sub>Tags: IT Support, Jira, Incident Management</sub>
     </td>
-    <!-- Project 3 -->
+    <!-- Wireless Security Assessment -->
     <td align="center" width="33%">
       <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">
-        <img src="https://github.com/user-attachments/assets/4b1b3dee-6252-49cb-a3ee-96d1fa0b8bb1"
-             style="width:100%; height:200px; object-fit:cover;" />
+        <img
+          src="https://github.com/user-attachments/assets/4b1b3dee-6252-49cb-a3ee-96d1fa0b8bb1"
+          style="width:100%; height:200px; object-fit:cover;"
+        />
       </a>
       <p style="margin:8px 0; font-size:1.35em; font-weight:700; color:#39FF14;">
         Wireless Security Assessment
@@ -91,7 +109,7 @@
         Reviewed wireless configurations, identified weak controls, and applied hardening measures.
       </sub>
       <br/><br/>
-      <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">
+      <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment" target="_blank">
         <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
       </a>
       <br/><br/>
@@ -99,6 +117,28 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+## 🏆 Achievements
+
+| Category | Honors & Awards |
+|---------|-----------------|
+| **Academic Honors** | ![SALUTE Veterans Honor Society](https://img.shields.io/badge/SALUTE%20Veterans%20Honor%20Society-2B2B2B?style=flat&logoColor=white) ![Dean’s List Baruch College](https://img.shields.io/badge/Dean’s%20List%20Baruch%20College-2B2B2B?style=flat&logoColor=white) |
+| **Military Service Awards** | ![Army Commendation Medal (C)](https://img.shields.io/badge/Army%20Commendation%20Medal%20(C)-D1D5DB?style=flat&logoColor=000000) ![Army Good Conduct Medal](https://img.shields.io/badge/Army%20Good%20Conduct%20Medal-D1D5DB?style=flat&logoColor=000000) ![Army Achievement Medal x3](https://img.shields.io/badge/Army%20Achievement%20Medal%20×3-D1D5DB?style=flat&logoColor=000000) |
+| **Campaign & Service Medals** | ![OIR Campaign Medal](https://img.shields.io/badge/OIR%20Campaign%20Medal-2B2B2B?style=flat&logoColor=white) ![GWOT Service Medal](https://img.shields.io/badge/GWOT%20Service%20Medal-2B2B2B?style=flat&logoColor=white) |
+
+<br>
+
+## 🤝 Volunteering & Community Involvement
+
+| Organization | Role & Contribution |
+|--------------|---------------------|
+| **ISACA New York Metropolitan Chapter** | ![Event Support](https://img.shields.io/badge/Event%20Support-2F6FDB?style=flat&logoColor=white) ![Cybersecurity Community](https://img.shields.io/badge/Cybersecurity%20Community-2F6FDB?style=flat&logoColor=white) |
+| **Student Veterans of America (SVA)** | ![Event Planning](https://img.shields.io/badge/Event%20Planning-0B3C5D?style=flat&logoColor=white) ![Veteran Support](https://img.shields.io/badge/Veteran%20Support-0B3C5D?style=flat&logoColor=white) |
+| **United Sherpa Association (USA), Inc.** |![Food Distribution](https://img.shields.io/badge/Food%20Distribution-2F6FDB?style=flat&logoColor=white) ![Disaster Relief](https://img.shields.io/badge/Disaster%20Relief-2F6FDB?style=flat&logoColor=white) |
+| **Met Council** | ![Community Support](https://img.shields.io/badge/Community%20Support-0B3C5D?style=flat&logoColor=white) ![Social Services](https://img.shields.io/badge/Social%20Services-0B3C5D?style=flat&logoColor=white) |
+
 
 
 <br>
@@ -127,9 +167,9 @@
 
 <br>
 
-<p align="left">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=999999&color=39FF14&center=false&vCenter=true&width=700&lines=Always+learning,+building+%26+improving"
+    src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=60&section=footer&width=100%"
+    width="100%"
   />
 </p>
-
