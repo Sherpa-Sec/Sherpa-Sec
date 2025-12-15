@@ -127,7 +127,7 @@
 
 <br>
 
-## 🏆 Achievements
+## Achievements
 
 | Category | Honors & Awards |
 |---------|-----------------|
@@ -137,7 +137,7 @@
 
 <br>
 
-## 🙌 Volunteering & Community Involvement
+## Volunteering & Community Involvement
 
 | Organization | Role & Contribution |
 |--------------|---------------------|
@@ -150,7 +150,7 @@
 
 <br>
 
-## 🛡️ Certifications
+## Certifications
 
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
 [![AI For Everyone](https://img.shields.io/badge/AI%20For%20Everyone-FF6F61?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learn/ai-for-everyone)
