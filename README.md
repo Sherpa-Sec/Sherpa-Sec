@@ -43,23 +43,18 @@ Building hands-on IT and cybersecurity skills through real-world labs and projec
 
 <br>
 
+## 👇 **Current project**
+
+- I’m currently working on my **Cybersecurity Homelab**, a hands-on virtual enterprise environment designed to build practical IT and security skills.
+- The lab includes pfSense firewalling, Active Directory, VLAN segmentation, centralized logging, and vulnerability scanning.
+- This project is continuously expanding as new systems, configurations, and troubleshooting scenarios are added and documented on GitHub.
+
+<img width="1024" height="852" alt="4  pfSense Login Page" src="https://github.com/user-attachments/assets/ce74f6c9-dab6-4c36-b325-aa5790725807" />
+
 ## Projects - showcase
 
 <table>
   <tr>
-    <!-- Project 1: Cybersecurity Homelab -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Sherpa-Sec/Cybersecurity-Homelab">
-        <img src="https://github.com/user-attachments/assets/7e539ab0-6efa-446b-ab7a-074ee8a8120d"
-             alt="Cybersecurity Homelab pfSense Login"
-             style="width:100%; height:200px; object-fit:cover;" />
-      </a>
-      <br/>
-      <b>Cybersecurity Homelab</b><br/>
-      <sub>Built a virtual enterprise network using pfSense, Active Directory, VLANs, SIEM, and vulnerability scanning.</sub><br/>
-      🔗 <a href="https://github.com/Sherpa-Sec/Cybersecurity-Homelab">Repo</a><br/>
-      <sub>Tags: pfSense, Active Directory, Wazuh, Nessus</sub>
-    </td>
     <!-- Project 2: Network Security & Vulnerability Assessment -->
     <td align="center" width="33%">
       <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
@@ -114,6 +109,5 @@ Building hands-on IT and cybersecurity skills through real-world labs and projec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakpa%20Sherpa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakpa-sherpa-/)
 
 Thank you for stopping by 🙂
-
 
 
