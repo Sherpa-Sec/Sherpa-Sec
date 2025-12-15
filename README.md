@@ -1,10 +1,4 @@
 
-<p align="left">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=39FF14&center=false&vCenter=true&width=700&lines=Always+Learning%2C+Building%2C+Growing+%26+Evolving" 
-  />
-</p>
-
 <h1 align="left">👋 Hello there, welcome to my GitHub portfolio</h1>
 
 <br>
@@ -106,4 +100,9 @@ Building hands-on IT and cybersecurity skills through real-world labs and projec
 
 Thank you for stopping by 🙂
 
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=999999&color=39FF14&center=false&vCenter=true&width=700&lines=Always+learning,+building+%26+improving"
+  />
+</p>
 
