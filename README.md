@@ -1,5 +1,6 @@
 
-<h1 align="left">👋 Hello there, welcome to my GitHub portfolio</h1>
+
+<h1 align="left"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hello there, welcome to my GitHub portfolio</h1>
 
 <br>
 
@@ -9,9 +10,9 @@
 
 <h2 align="left">🌱 About Me</h2>
 
-Building hands-on IT and cybersecurity skills through real-world labs and projects.
-
-> **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food
+- Cybersecurity graduate and U.S. Army veteran building practical IT and security skills through real-world labs and projects.
+- Interested in system administration, networking, security operations, and continuous learning.
+- **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food.
 
 <br>
 
@@ -24,20 +25,9 @@ Building hands-on IT and cybersecurity skills through real-world labs and projec
 | **Applications & Tools** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=flat&logo=powershell&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-34495E?style=flat) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=flat&logo=microsoft&logoColor=white) |
 | **Security, Networking & Monitoring** | ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat) ![Nessus](https://img.shields.io/badge/Nessus-009E73?style=flat&logo=tenable&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-0B5FFF?style=flat) ![Splunk](https://img.shields.io/badge/Splunk%20Cloud-000000?style=flat&logo=splunk&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0067B8?style=flat&logo=windows&logoColor=white) ![Windows File Server](https://img.shields.io/badge/Windows%20File%20Server-0078D6?style=flat&logo=windows&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=flat) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
  
-
-
-
 <br>
 
-## 🛡️ Certifications
-
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
-[![AI For Everyone](https://img.shields.io/badge/AI%20For%20Everyone-FF6F61?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learn/ai-for-everyone)
-
-
-<br>
-
-## 👇 **Current project**
+## 👇 **Current project**- Cybersecurity Homelab
 
 - I’m currently working on my **Cybersecurity Homelab**, a hands-on virtual enterprise environment designed to build practical IT and security skills.
 - The lab includes pfSense firewalling, Active Directory, VLAN segmentation, centralized logging, and vulnerability scanning.
@@ -50,43 +40,61 @@ Building hands-on IT and cybersecurity skills through real-world labs and projec
 
 <table>
   <tr>
-    <!-- Network Security & Vulnerability Assessment -->
+    <!-- Project 1 -->
     <td align="center" width="33%">
       <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
         <img src="https://github.com/user-attachments/assets/69d4abc6-5651-4c2c-af70-51bb2d7055a1"
-             alt="Network Security & Vulnerability Assessment"
              style="width:100%; height:200px; object-fit:cover;" />
       </a>
-      <br/>
-      <b>Network Security & Vulnerability Assessment</b><br/>
-      <sub>Conducted Nmap and Nessus scans, analyzed vulnerabilities, and documented remediation steps.</sub><br/>
-      🔗 <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">Repo</a><br/>
+      <p style="margin:8px 0; font-size:1.35em; font-weight:700; color:#39FF14;">
+        Network Security & Vulnerability Assessment
+      </p>
+      <sub>
+        Conducted Nmap and Nessus scans, analyzed vulnerabilities, and documented remediation steps.
+      </sub>
+      <br/><br/>
+      <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
+        <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
+      </a>
+      <br/><br/>
       <sub>Tags: Nmap, Nessus, Vulnerability Management</sub>
     </td>
-    <!-- Jira Ticket Workflow Simulation -->
+    <!-- Project 2 -->
     <td align="center" width="33%">
       <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">
         <img src="https://github.com/user-attachments/assets/564d1cac-b7de-4ae2-87d1-ed4751687036"
-             alt="Jira Ticket Workflow Simulation"
              style="width:100%; height:200px; object-fit:cover;" />
       </a>
-      <br/>
-      <b>Jira Ticket Workflow Simulation</b><br/>
-      <sub>Simulated real-world IT support incidents using Jira Service Management workflows.</sub><br/>
-      🔗 <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">Repo</a><br/>
+      <p style="margin:8px 0; font-size:1.35em; font-weight:700; color:#39FF14;">
+        Jira Ticket Workflow Simulation
+      </p>
+      <sub>
+        Simulated real-world IT support incidents using Jira Service Management workflows.
+      </sub>
+      <br/><br/>
+      <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">
+        <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
+      </a>
+      <br/><br/>
       <sub>Tags: IT Support, Jira, Incident Management</sub>
     </td>
-    <!-- Wireless Security Assessment -->
+    <!-- Project 3 -->
     <td align="center" width="33%">
       <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">
         <img src="https://github.com/user-attachments/assets/4b1b3dee-6252-49cb-a3ee-96d1fa0b8bb1"
-             alt="Wireless Security Assessment"
              style="width:100%; height:200px; object-fit:cover;" />
       </a>
-      <br/>
-      <b>Wireless Security Assessment</b><br/>
-      <sub>Reviewed wireless configurations, identified weak controls, and applied hardening measures.</sub><br/>
-      🔗 <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">Repo</a><br/>
+      <p style="margin:8px 0; font-size:1.35em; font-weight:700; color:#39FF14;">
+        Wireless Security Assessment
+      </p>
+      <sub>
+        Reviewed wireless configurations, identified weak controls, and applied hardening measures.
+      </sub>
+      <br/><br/>
+      <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">
+        <img src="https://img.shields.io/badge/Repo-39FF14?style=flat&logo=github&logoColor=000000" />
+      </a>
+      <br/><br/>
       <sub>Tags: Wi-Fi Security, Network Hardening, Risk Assessment</sub>
     </td>
   </tr>
@@ -95,10 +103,29 @@ Building hands-on IT and cybersecurity skills through real-world labs and projec
 
 <br>
 
-## 🤝 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakpa%20Sherpa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakpa-sherpa-/)
+## 🛡️ Certifications
 
-Thank you for stopping by 🙂
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+[![AI For Everyone](https://img.shields.io/badge/AI%20For%20Everyone-FF6F61?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learn/ai-for-everyone)
+
+<br>
+
+<div style="display:flex; align-items:center; justify-content:space-between;">
+
+  <h3>🤝 Let's Connect!</h3>
+
+  <div>
+    <a href="https://github.com/Sherpa-Sec" target="_blank">
+      <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=39FF14" />
+    </a>
+    <a href="https://www.linkedin.com/in/lakpa-sherpa-/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </div>
+
+</div>
+
+<br>
 
 <p align="left">
   <img
