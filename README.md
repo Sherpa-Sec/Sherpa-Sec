@@ -41,7 +41,7 @@
   <tr>
     <td align="left">
 
-## 🛠️ **Current Project** — Cybersecurity Homelab
+## 🛠️ **Current Project** - Cybersecurity Homelab
 
 - I’m currently working on my **Cybersecurity Homelab**, a hands-on virtual enterprise environment designed to build practical IT and security skills.
 - The lab includes pfSense firewalling, Active Directory, VLAN segmentation, centralized logging, and vulnerability scanning.
