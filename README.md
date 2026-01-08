@@ -55,7 +55,7 @@
 
 <br>
 
-## 🧪 Projects
+## 🧪 Projects Showcase
 
 <table width="100%">
   <tr>
