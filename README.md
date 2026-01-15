@@ -136,7 +136,7 @@
 |--------------|---------------------|
 | **ISACA New York Metropolitan Chapter** | ![Event Support](https://img.shields.io/badge/Event%20Support-121011?style=flat&logoColor=39FF14) ![Cybersecurity Community](https://img.shields.io/badge/Cybersecurity%20Community-121011?style=flat&logoColor=39FF14) |
 | **Student Veterans of America (SVA)** | ![Event Planning](https://img.shields.io/badge/Event%20Planning-121011?style=flat&logoColor=39FF14) ![Veteran Support](https://img.shields.io/badge/Veteran%20Support-121011?style=flat&logoColor=39FF14) |
-| **United Sherpa Association (USA), Inc.** | ![Food Distribution](https://img.shields.io/badge/Food%20Distribution-121011?style=flat&logoColor=39FF14) ![Disaster Relief](https://img.shields.io/badge/Disaster%20Relief-121011?style=flat&logoColor=39FF14) |
+| **United Sherpa Association (USA)** | ![Food Distribution](https://img.shields.io/badge/Food%20Distribution-121011?style=flat&logoColor=39FF14) ![Disaster Relief](https://img.shields.io/badge/Disaster%20Relief-121011?style=flat&logoColor=39FF14) |
 | **Met Council** | ![Community Support](https://img.shields.io/badge/Community%20Support-121011?style=flat&logoColor=39FF14) ![Social Services](https://img.shields.io/badge/Social%20Services-121011?style=flat&logoColor=39FF14) |
 
 <br>
