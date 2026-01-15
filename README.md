@@ -44,7 +44,7 @@
 
 - I’m currently working on *Cybersecurity homelab* from scratch to strengthen my fundamentals in networking, system administration, and security monitoring through hands-on practice.
 - The goal is to understand how enterprise components interact as a complete environment, not just how individual tools work.
-- The lab simulates a small enterprise network and includes a pfSense firewall, VLAN segmentation, Active Directory, centralized logging, and vulnerability scanning.
+- The lab simulates a small enterprise network and includes a pfSense firewall, VLAN segmentation, Open VPN, Active Directory, centralized logging, and vulnerability scanning.
 
 <img width="1077" height="713" alt="VirtualBox with organized VM folders" src="https://github.com/user-attachments/assets/6df506a8-3a2e-4e5f-9dbd-7680fd8898ef" />
 
