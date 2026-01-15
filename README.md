@@ -20,7 +20,7 @@
 
 <h2 align="left"> 👨‍💻 About Me</h2>
 
-- Cybersecurity graduate and U.S. Army veteran building practical IT and security skills through real-world labs and projects.
+- Cybersecurity graduate and U.S. Army veteran building practical networking and security skills through real-world labs and projects.
 - Interested in system administration, networking, security operations, and continuous learning.
 - **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food.
 
