@@ -13,14 +13,14 @@
 <br>
 
 <p align="left">
-  <b><code>Cybersecurity Graduate | Army Veteran | Curious Learner</code></b>
+  <b><code>Cybersecurity Graduate | U.S. Veteran | Curious Learner</code></b>
 </p>
 
 <br>
 
 <h2 align="left"> 👨‍💻 About Me</h2>
 
-- Cybersecurity graduate and U.S. Army veteran building practical networking and security skills through real-world labs and projects.
+- Cybersecurity graduate and veteran building practical networking and security skills through real-world labs and projects.
 - **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food.
 
 <br>
