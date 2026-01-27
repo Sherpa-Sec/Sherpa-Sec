@@ -20,12 +20,12 @@
 
 <h2 align="left"> 👨‍💻 About Me</h2>
 
-- Cybersecurity graduate and veteran building practical networking and security skills through real-world labs and projects.
+- Cybersecurity graduate and veteran building practical networking and security skills through hands-on labs and projects.
 - **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food.
 
 <br>
 
-## 🧰 My Toolbox
+## 🧰 Technical Skills & Tools
 
 | Category | Tools |
 |---------|-------|
@@ -40,13 +40,12 @@
   <tr>
     <td align="left">
 
-## 🛠️ **Current Project** - Cybersecurity Homelab
+## 🛠️ Current Project – SIEM & SOAR Security Monitoring Lab
 
-- I’m currently working on *Cybersecurity homelab* from scratch to strengthen my fundamentals in networking, system administration, and security monitoring through hands-on practice.
-- The goal is to understand how enterprise components interact as a complete environment.
-- The lab simulates a small enterprise network and includes a pfSense firewall, VLAN segmentation, Open VPN, Active Directory, centralized logging, and vulnerability scanning.
+- I’m currently building a **SIEM-focused security monitoring lab** to strengthen my fundamentals in log collection, alerting, and incident investigation through hands-on practice.
+- The goal is to understand how security events are generated, detected, and analyzed in a centralized monitoring platform.
+- The lab simulates a small enterprise environment and includes log ingestion from Windows systems, firewall activity, authentication events, and vulnerability scan data, with alerts validated through analyst-style investigation.
 
-<img width="1077" height="713" alt="VirtualBox with organized VM folders" src="https://github.com/user-attachments/assets/6df506a8-3a2e-4e5f-9dbd-7680fd8898ef" />
 
 </td>
   </tr>
@@ -56,69 +55,79 @@
 
 ## 🧪 Projects Showcase
 
-<table width="100%">
+<table>
   <tr>
-    <!-- Project 1 -->
-    <td align="center" width="33%" valign="top">
-      <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
-        <img src="https://github.com/user-attachments/assets/69d4abc6-5651-4c2c-af70-51bb2d7055a1"
-             width="100%" height="200" style="object-fit:cover;" />
-      </a>
-      <h3 style="color:#39FF14; margin:10px 0 6px;">
-        Network Security & Vulnerability Assessment
-      </h3>
-      <p style="min-height:60px; margin:0 8px;">
-        Conducted Nmap and Nessus scans, analyzed vulnerabilities, and documented remediation steps.
-      </p>
-      <br/>
-      <a href="https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment">
-        <img src="https://img.shields.io/badge/Repo-0D1117?style=flat&logo=github&logoColor=39FF14" />
-      </a>
-      <br/><br/>
-      <sub>Tags: Nmap, Nessus, Vulnerability Management</sub>
-    </td>
-    <!-- Project 2 -->
-    <td align="center" width="33%" valign="top">
-      <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">
-        <img src="https://github.com/user-attachments/assets/564d1cac-b7de-4ae2-87d1-ed4751687036"
-             width="100%" height="200" style="object-fit:cover;" />
-      </a>
-      <h3 style="color:#39FF14; margin:10px 0 6px;">
-        Jira Ticket Workflow Simulation
-      </h3>
-      <p style="min-height:60px; margin:0 8px;">
-        Simulated real-world IT support incidents using Jira Service Management workflows.
-      </p>
-      <br/>
-      <a href="https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab">
-        <img src="https://img.shields.io/badge/Repo-0D1117?style=flat&logo=github&logoColor=39FF14" />
-      </a>
-      <br/><br/>
-      <sub>Tags: IT Support, Jira, Incident Management</sub>
-    </td>
-    <!-- Project 3 -->
-    <td align="center" width="33%" valign="top">
-      <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">
-        <img src="https://github.com/user-attachments/assets/4b1b3dee-6252-49cb-a3ee-96d1fa0b8bb1"
-             width="100%" height="200" style="object-fit:cover;" />
-      </a>
-      <h3 style="color:#39FF14; margin:10px 0 6px;">
-        Wireless Security Assessment
-      </h3>
-      <p style="min-height:60px; margin:0 8px;">
-        Reviewed wireless configurations, identified weak controls, and applied hardening measures.
-      </p>
-      <br/>
-      <a href="https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment">
-        <img src="https://img.shields.io/badge/Repo-0D1117?style=flat&logo=github&logoColor=39FF14" />
-      </a>
-      <br/><br/>
-      <sub>Tags: Wi-Fi Security, Network Hardening, Risk Assessment</sub>
-    </td>
+    <td align="left">
 
+### 🏗️ Active Directory & Identity Access Management (IAM) Lab
+
+- Built a Windows Active Directory environment with a domain controller and client
+- Designed HR-based OU structure with role-based security groups
+- Simulated onboarding, role changes, and offboarding workflows
+- Applied Group Policy security controls
+- Verified actions using Windows security event logs
+
+🔗 Project: https://github.com/Sherpa-Sec/Active-Directory-Identity-Access-Management-Lab
+    </td>
   </tr>
 </table>
 
+<br>
+
+<table>
+  <tr>
+    <td align="left">
+
+### 🔐 Network Security & Vulnerability Assessment
+
+- Performed network scanning using Nmap and Nessus
+- Identified exposed services and common misconfigurations
+- Analyzed scan results and documented remediation steps
+- Validated fixes through follow-up scans
+
+🔗 Project: https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="left">
+
+### 🎫 Jira Ticket Workflow Simulation
+
+- Built end-to-end IT support ticket workflows in Jira Service Management
+- Simulated common incidents such as account lockouts and access issues
+- Documented ticket lifecycle from intake to resolution
+- Practiced clear internal notes and user-facing communication
+
+🔗 Project: https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="left">
+
+### 📶 Wireless Security Assessment
+
+- Reviewed wireless configuration and encryption settings
+- Identified weak controls and unnecessary exposure
+- Applied security hardening measures
+- Documented risk findings and improvements
+
+🔗 Project: https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment
+    </td>
+  </tr>
+</table>
+
+
+<br>
 
 ## 🎖️ Achievements
 
