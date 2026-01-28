@@ -40,12 +40,12 @@
   <tr>
     <td align="left">
 
-## 🛠️ Current Project – SIEM & SOAR Security Monitoring Lab
+## 🛠️ Current Project – 🚨 SIEM Security Monitoring Lab
 
-- I’m currently building a **SIEM-focused security monitoring lab** to strengthen my fundamentals in log collection, alerting, and incident investigation through hands-on practice.
-- The goal is to understand how security events are generated, detected, and analyzed in a centralized monitoring platform.
-- The lab simulates a small enterprise environment and includes log ingestion from Windows systems, firewall activity, authentication events, and vulnerability scan data, with alerts validated through analyst-style investigation.
-
+- Building a SIEM-focused lab to practice log collection, alert detection, and incident investigation
+- Goal is to understand how security events are generated, detected, and investigated in a centralized SIEM
+- Lab includes log ingestion from Windows systems, authentication activity, firewall traffic, and vulnerability scan results
+- Alerts are manually validated and investigated using a Tier-1 SOC workflow
 
 </td>
   </tr>
