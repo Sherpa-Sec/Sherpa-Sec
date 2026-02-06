@@ -40,12 +40,12 @@
   <tr>
     <td align="left">
 
-## 🛠️ Current Project – 🚨 SIEM Security Monitoring Lab
+## 🛠️ Current Project – 🌐 Cisco Packet Tracer Enterprise Network Lab
 
-- Building a SIEM-focused lab to practice log collection, alert detection, and incident investigation
-- Goal is to understand how security events are generated, detected, and investigated in a centralized SIEM
-- Lab includes log ingestion from Windows systems, authentication activity, firewall traffic, and vulnerability scan results
-- Alerts are manually validated and investigated using a Tier-1 SOC workflow
+- Building a small enterprise-style network in Cisco Packet Tracer to practice core networking fundamentals
+- Goal is to understand how data flows across switches and routers using VLANs, IP addressing, and basic routing
+- Lab includes multiple VLANs, access and trunk ports, DHCP configuration, and inter-VLAN communication
+- Network behavior is verified through pings, traceroutes, and show commands, with misconfigurations identified and corrected using structured troubleshooting steps
 
 </td>
   </tr>
