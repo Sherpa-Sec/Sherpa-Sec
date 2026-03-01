@@ -21,7 +21,7 @@
 <h2 align="left"> 👨‍💻 About Me</h2>
 
 - Cybersecurity graduate and veteran building practical networking and security skills through hands-on labs and projects.
-- **Fun fact:** I enjoy anime, cycling, traveling, and exploring new cultures and food.
+- **Fun fact:** I enjoy cycling, traveling, and exploring new cultures and food.
 
 <br>
 
