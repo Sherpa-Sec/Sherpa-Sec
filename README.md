@@ -152,6 +152,7 @@
 
 ## 🎓 Certifications
 
+[![CompTIA Security+ SY0-701](https://img.shields.io/badge/CompTIA%20Security%2B%20(SY0--701)-121011?style=for-the-badge&logo=comptia&logoColor=39FF14)](https://www.credly.com/badges/f9261c81-0243-4503-a092-540d52f0f4c9)
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-121011?style=for-the-badge&logo=google&logoColor=39FF14)](https://www.coursera.org/professional-certificates/google-cybersecurity)
 [![AI For Everyone](https://img.shields.io/badge/AI%20For%20Everyone-121011?style=for-the-badge&logo=coursera&logoColor=39FF14)](https://www.coursera.org/learn/ai-for-everyone)
 
